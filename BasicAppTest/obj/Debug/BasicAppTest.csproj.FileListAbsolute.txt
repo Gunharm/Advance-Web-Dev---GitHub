@@ -1,0 +1,18 @@
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\BasicAppTest.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\BasicAppTest.pdb
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\GM Basic App GitHub.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\GM Basic App GitHub.pdb
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\GM Basic App GitHub.dll.config
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.AssemblyReference.cache
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.CoreCompileInputs.cache
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.CopyComplete
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.dll
+C:\Users\gumarti\source\repos\GM Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.pdb
